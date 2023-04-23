@@ -1,0 +1,15 @@
+/home/trebor/Source/Repos/TestProgrammDatevUtilities/bin/Debug/net7.0/TestProgrammDatevUtilities
+/home/trebor/Source/Repos/TestProgrammDatevUtilities/bin/Debug/net7.0/TestProgrammDatevUtilities.deps.json
+/home/trebor/Source/Repos/TestProgrammDatevUtilities/bin/Debug/net7.0/TestProgrammDatevUtilities.runtimeconfig.json
+/home/trebor/Source/Repos/TestProgrammDatevUtilities/bin/Debug/net7.0/TestProgrammDatevUtilities.dll
+/home/trebor/Source/Repos/TestProgrammDatevUtilities/bin/Debug/net7.0/TestProgrammDatevUtilities.pdb
+/home/trebor/Source/Repos/TestProgrammDatevUtilities/obj/Debug/net7.0/TestProgrammDatevUtilities.csproj.AssemblyReference.cache
+/home/trebor/Source/Repos/TestProgrammDatevUtilities/obj/Debug/net7.0/TestProgrammDatevUtilities.GeneratedMSBuildEditorConfig.editorconfig
+/home/trebor/Source/Repos/TestProgrammDatevUtilities/obj/Debug/net7.0/TestProgrammDatevUtilities.AssemblyInfoInputs.cache
+/home/trebor/Source/Repos/TestProgrammDatevUtilities/obj/Debug/net7.0/TestProgrammDatevUtilities.AssemblyInfo.cs
+/home/trebor/Source/Repos/TestProgrammDatevUtilities/obj/Debug/net7.0/TestProgrammDatevUtilities.csproj.CoreCompileInputs.cache
+/home/trebor/Source/Repos/TestProgrammDatevUtilities/obj/Debug/net7.0/TestProgrammDatevUtilities.dll
+/home/trebor/Source/Repos/TestProgrammDatevUtilities/obj/Debug/net7.0/refint/TestProgrammDatevUtilities.dll
+/home/trebor/Source/Repos/TestProgrammDatevUtilities/obj/Debug/net7.0/TestProgrammDatevUtilities.pdb
+/home/trebor/Source/Repos/TestProgrammDatevUtilities/obj/Debug/net7.0/TestProgrammDatevUtilities.genruntimeconfig.cache
+/home/trebor/Source/Repos/TestProgrammDatevUtilities/obj/Debug/net7.0/ref/TestProgrammDatevUtilities.dll
